@@ -26,3 +26,5 @@ Under 'Protection Settings' select the drive you want to partition and select 'C
 Select 'Disable system protection'```
 
 At this point the resizing should work but you also may need to restart. I didn't need to I don't think but your mileage may vary.
+
+After you resize your partition you'll likely want to reverse the steps taken above. I didn't feel it necessary as Windows is not my main OS. If you wish to reverse the changes, view the link at the top of this how-to.
